@@ -97,3 +97,6 @@ def save_result(self):
 ## Output of Fractured Bone detection for Shoulder
 <img width="321" height="510" alt="image" src="https://github.com/user-attachments/assets/5b11cd27-5a9c-45e6-bf54-5f85a856f973" />
 
+### RESULT
+
+The proposed two-stage CNN-based fracture classification system demonstrated strong performance in accurately identifying and detecting bone fractures from X-ray images. By leveraging transfer learning with the pre-trained ResNet50 model for initial bone type recognition, followed by specialized bone-specific classifiers, the system achieved improved precision and reduced misclassification compared to a single generalized model. Experimental evaluation on the MURA dataset showed high classification accuracy, better feature extraction, and faster convergence during training. The bone-specific models were particularly effective in capturing subtle fracture patterns unique to the elbow, hand, and shoulder, leading to enhanced sensitivity and reliability in diagnosis. Overall, the results confirm that the proposed approach provides a robust, automated, and consistent solution that can assist radiologists by minimizing diagnostic errors, reducing workload, and enabling quicker clinical decision-making.
