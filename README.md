@@ -7,14 +7,14 @@ The main concept of the system revolves around a two-step process to accurately 
 
 ### SOFTWARE ENVIRONMENT
 
-●	Operating system	: Windows7 (with service pack 1), 8, 8.1 ,10 and 11
-●	Language	: Python
-●	Libraries & Frameworks: TensorFlow / Keras, PyTorch OpenCV, NumPy, Pandas Matplotlib, Seaborn
+*	Operating system	: Windows7 (with service pack 1), 8, 8.1 ,10 and 11
+*	Language	: Python
+*	Libraries & Frameworks: TensorFlow / Keras, PyTorch OpenCV, NumPy, Pandas Matplotlib, Seaborn
 CUDA & cuDNN, TensorBoard
-●	Dataset & Storage:
+*	Dataset & Storage:
 MURA Dataset
 Google Drive / AWS S3 / Local Storage
-●	Development Tools:
+*	Development Tools:
 Jupyter Notebook / Google Colab / PyCharm / VS Code
 
 ### PART OF CODE
